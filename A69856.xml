@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digiti-lingua, or, The most compendious, copious, facil, and secret way of silent converse ever yet discovered shewing, how any two persons may be capable, in half an hours time, to discourse together by their fingers only, and as well in the dark as the light / by a person who has conversed no otherwise in above nine years.</title>
+            <author>Person who has conversed no otherwise in above nine years.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69856</idno>
+            <idno type="STC">Wing D1472</idno>
+            <idno type="STC">ESTC R14754</idno>
+            <idno type="EEBO-CITATION">11718023</idno>
+            <idno type="OCLC">ocm 11718023</idno>
+            <idno type="VID">48316</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69856)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48316)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700, 529:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Digiti-lingua, or, The most compendious, copious, facil, and secret way of silent converse ever yet discovered shewing, how any two persons may be capable, in half an hours time, to discourse together by their fingers only, and as well in the dark as the light / by a person who has conversed no otherwise in above nine years.</title>
+                  <author>Person who has conversed no otherwise in above nine years.</author>
+               </titleStmt>
+               <extent>30 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Buck ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The directions herein are so clear and the method so extensive, (yet both so superlatatively easie) that if six persona are in company, (and each of them well versed in the design) yet two of them may discourse together, and the other four wholly ignorant of what they mean."</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Deaf --  Means of communication --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48316:1"/>
+            <pb facs="tcp:48316:1" rendition="simple:additions"/>
+            <p>
+               <hi>Digiti-Lingua:</hi> OR, The moſt compendious, copi<g ref="char:EOLhyphen"/>ous, facile, and ſecret way of ſi<g ref="char:EOLhyphen"/>lent Converſe ever yet diſco<g ref="char:EOLhyphen"/>vered.</p>
+            <p>Shewing, how any two perſons may be capable, in half an hours time, to diſcourſe together by their Fingers only, and as well in the dark as the light.</p>
+            <p>The Directions herein given are ſo clear, and the Method ſo extenſive, (yet both ſuperlatatively eaſie) that if ſix perſons are in company, (and each of them well verſed in the deſign) yet two of them may diſcourſe together, and the other four wholly ignorant of what they mean.</p>
+            <p>By a perſon who has converſed no otherwiſe in above nine Years.</p>
+            <p>The Figures curiouſly Engraved on Copper Plates.</p>
+            <p>
+               <hi>Pulchrum eſt Digito Monſtrari &amp; Di<g ref="char:EOLhyphen"/>cier hic eſt.</hi> Perſius</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>P. Buck,</hi> at the ſign of the <hi>Temple</hi> near the <hi>Inner-Temple-Gate</hi> in <hi>Fleet-street,</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:48316:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:48316:2"/>
+            <head>
+               <hi>Digiti-Lingua:</hi> OR The moſt compendious co<g ref="char:EOLhyphen"/>pious, facile, and ſecret way of ſilent Converſe ever yet diſcovered.</head>
+            <p>HAving been obliged (thro' an unfortunate impedi<g ref="char:EOLhyphen"/>ment) to theſe, or ſome ſuch like methods of Converſe, for now near ten years laſt paſt, I have diverſe times endeavoured to render the way of expreſſion
+<pb n="2" facs="tcp:48316:3"/>more facile, and leſs burthen<g ref="char:EOLhyphen"/>ſome to the memory, as well as more brief and copious both in reſpect of time in which a word may be expreſſed, and alſo of the figurative letters which re<g ref="char:EOLhyphen"/>preſent a word; and having now (in my own judgment) brought it to as convenient a period as I well can, I here preſent the World with it: To whoſe cen<g ref="char:EOLhyphen"/>ſure or approbation I leave it.</p>
+            <p>I am ſenſible there hath of late been publiſhed a pretty piece of Ingenuity, intituled <hi>Sermo Mira<g ref="char:EOLhyphen"/>bilis,</hi> wherein the Author under<g ref="char:EOLhyphen"/>takes (by his Book I mean) to learn a perſon, ſo as to be capa<g ref="char:EOLhyphen"/>ble to diſcover his mind to his Miſtreſs, or his Friend, and re<g ref="char:EOLhyphen"/>quires but ſix hours time for ap<g ref="char:EOLhyphen"/>prehenſion.
+<pb n="3" facs="tcp:48316:3"/>In which time I truly believe it may be done, and muſt own it as my own private opinion, that few people would have patience to ſit ſix hours to<g ref="char:EOLhyphen"/>gether, upon no other buſineſs, than purely to learn an Alpha<g ref="char:EOLhyphen"/>bet.</p>
+            <p>The reaſon why I judge my method more facile in attaining, and leſs burthenſome to the me<g ref="char:EOLhyphen"/>mory, is, becauſe in matters of ſmall moment, to me nothing ſeems to affect the memory more than ſight: Now the Gentleman having contrived moſt of the Conſonants about the Head, which the perſon expreſſing can never ſee, there muſt certainly be ſome ſmall time allowed for recollection, that Noſe begins
+<pb n="4" facs="tcp:48316:4"/>with (n) Mouth with (m) and ſo of the reſt; whereas theſe Al<g ref="char:EOLhyphen"/>phabets of mine, depending on<g ref="char:EOLhyphen"/>ly on the two hands, the perſon learning ſees every ſignificative figure he makes; the often ſee<g ref="char:EOLhyphen"/>ing of which, as well as the of<g ref="char:EOLhyphen"/>ten doing ſo, greatly helps to<g ref="char:EOLhyphen"/>wards impreſſing it on the me<g ref="char:EOLhyphen"/>mory.</p>
+            <p>Neither do I perceive how this Gentleman makes his Alpha<g ref="char:EOLhyphen"/>bet more difficult to an indiffe<g ref="char:EOLhyphen"/>rent perſon, by pointing to two ſeveral places for one letter, ſince his general rule is, that, that part of the Head or Body repreſents ſuch a letter as the name of ſuch part begins withal, he ſays, point to Arm for (a) or to Elbow for (e) and omit pointing to the
+<pb n="5" facs="tcp:48316:4"/>Thumb and Fore-finger for thoſe two vowels, render it more unin<g ref="char:EOLhyphen"/>telligible to a third perſon, who is acquainted with his Alphabets, which I cannot apprehend, un<g ref="char:EOLhyphen"/>leſs he had deſigned two other letters to be repreſented by the top of the Thumb and Fore-fin<g ref="char:EOLhyphen"/>ger; becauſe, I ſay, pointing of<g ref="char:EOLhyphen"/>ten to the Arm (as in diſcourſe is unavoidable) and not at all to the Thumb, any Perſon (ob<g ref="char:EOLhyphen"/>ſerving his general rule) might perceive the mutation, and there<g ref="char:EOLhyphen"/>by render it every whit as plain, as without alteration, according to his inſtructions. I cannot but believe (for the reaſon before given) it is eaſier by far to un<g ref="char:EOLhyphen"/>derſtand what is ſaid than to ex<g ref="char:EOLhyphen"/>preſs it, if the ſeveral parts are
+<pb n="6" facs="tcp:48316:5"/>pointed to but ſlowly; and in<g ref="char:EOLhyphen"/>deed I think his way will not al<g ref="char:EOLhyphen"/>low of ſo ſwift an occular appre<g ref="char:EOLhyphen"/>henſion, (unleſs a Man knows where his Eye may meet a Let<g ref="char:EOLhyphen"/>ter) by reaſon of the diſtance of the parts pointed to, as theſe Alphabets of mine where the Eyes are continually confin'd to ſo ſmall a compaſs as about one hand.</p>
+            <p>All that poſſibly can be done by the directions given in <hi>Sermo Mirabilis,</hi> may more quick, free, and eaſily be done, by the Al<g ref="char:EOLhyphen"/>phabets here delivered, and much more: For two perſons can ne<g ref="char:EOLhyphen"/>ver diſcourſe by thoſe letters, unleſs they ſee each others Arms, Hands, Head and Body; and that perfectly too, whereas by
+<pb n="7" facs="tcp:48316:5"/>my Alphabets nothing is requi<g ref="char:EOLhyphen"/>red but the Hands, which in caſe of urgent neceſſity may be held over anothers Head, or the per<g ref="char:EOLhyphen"/>ſon thus expreſſing, may put his hands behind him, his Friend ſtanding at his back; nay, a hun<g ref="char:EOLhyphen"/>dred other conveniencies there are, that Arms, Head and Body will never admit of, which any perſon uſing theſe Alphabets will ſoon diſcover.</p>
+            <p>However, for more perſpicu<g ref="char:EOLhyphen"/>ous demonſtration ſake, I think it may not be amiſs in this place to ſubjoyn a ſuppoſition or two, which when rightly apprehend<g ref="char:EOLhyphen"/>ed, will as well make way for many more of the like nature, as ſuperlatively convince the un<g ref="char:EOLhyphen"/>prejudiced World, that nothing
+<pb n="8" facs="tcp:48316:6"/>of this ſort yet publiſhed can juſtly claim a parity, with the Methods here laid down, in re<g ref="char:EOLhyphen"/>ſpect of their ſecrecy, pleaſure, and conveniency.</p>
+            <p>In the firſt place, therefore, I will ſuppoſe an honourable and and agreeable contraction, of an inviolable friendſhip between two perſons, (whether of the ſame or different Sex, I judge it not material to my matter in hand to diſtinguiſh) who are both very well verſed in one or both of theſe Alphabets, which many or moſt of their Friends and Ac<g ref="char:EOLhyphen"/>quaintance may diſcern; and ſo perhaps theſe two Friends, (tho' they know they can diſcourſe together, without any Friends underſtanding, who I now ſup<g ref="char:EOLhyphen"/>poſe
+<pb n="9" facs="tcp:48316:6"/>to be in company) yet be<g ref="char:EOLhyphen"/>cauſe they cannot do it without their knowledge that they are com<g ref="char:EOLhyphen"/>municating, they, out of a piece of breeding and gentility totally decline it, becauſe, for a very true reaſon (though a very ill one, if the ſame thing at the ſame time may bear both thoſe con<g ref="char:EOLhyphen"/>trary Titles), <hi>viz.</hi> The company being ignorant what the two Friends ſay, that troubleſome Fiend jealouſy, may ſuggeſt no<g ref="char:EOLhyphen"/>cent or diſhonourable inclinati<g ref="char:EOLhyphen"/>ons, (eſpecially if of two different Sexes) when in reality it may only be a meer thought, a ſlight piece of raillery, or a thing of no manner of concern or mo<g ref="char:EOLhyphen"/>ment. But ſome people are ſo curſedly bewitched, and by this
+<pb n="10" facs="tcp:48316:7"/>Foe to all Quietude, that they no ſooner perceive a whiſper but they proclaim a Plot. 'Tis what the fair Sex are too often unde<g ref="char:EOLhyphen"/>ſervedly charged withal. Now if ſuch jealous perſons were in company (as ſometimes may hap<g ref="char:EOLhyphen"/>pen) and either of the two friends any dependance upon them, I think it great folly this way to diſoblige them which may be a<g ref="char:EOLhyphen"/>voided, and one friend diſcloſe his mind to the other, without the leaſt perceivance of any in company, by the uſe of either of theſe Alphabets; in this manner, let the perſon to whom the other is diſcloſing, but diſpoſe one of his hands out of the company, as to be hid with his Hat, put behind him, under a Table, or
+<pb n="11" facs="tcp:48316:7"/>otherwiſe, as conveniency beſt offers, ſo that the perſon about to diſcloſe ſtand or ſit next him, or can well reach his hand with<g ref="char:EOLhyphen"/>out notice taken by the Compa<g ref="char:EOLhyphen"/>ny: Complying with this cauti<g ref="char:EOLhyphen"/>on, one Friend may diſcover his mind to the other with all the ſecrecy imaginable, by making the ſame Figures on and about his Friends hand, as he could on his own hand if his Friend ſaw him, becauſe this way the Per<g ref="char:EOLhyphen"/>ſon to whom ſpoke, apprehends as well in the dark by feeling, as if he ſaw the ſame Figures in the light. Thus in the moſt private manner, and by ſtealth, can a man make aſſignation to meet his friend, promiſe to re<g ref="char:EOLhyphen"/>new a Viſit, ask Counſel, give
+<pb n="12" facs="tcp:48316:8"/>Advice, <hi>&amp;c.</hi> without the leaſt ſuſpicion of the ſharpeſt over<g ref="char:EOLhyphen"/>looker; nay, one of the two friends may look a third perſon earneſtly in the face, as ſeeming intent on what diſcourſe enter<g ref="char:EOLhyphen"/>tains the Company, and indeed minds only what his ſilent friend and himſelf are mutually con<g ref="char:EOLhyphen"/>verſing about on each others Fingers. I believe I have by this time furniſhed a witty head, with ways enough to diſcloſe a ſecret as private as ſecrecy it<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>Furthermore, any two per<g ref="char:EOLhyphen"/>ſons may diſcourſe Riding or Walking, and ſo that not to be obſerved by any Perſons meeting or paſſing by.</p>
+            <p>
+               <pb n="13" facs="tcp:48316:8"/>But as a Crown to the con<g ref="char:EOLhyphen"/>veniency and pleaſure in this way of Converſe, let me mention the facility in learning the method here delivered, which is eaſily done in the ſpace of half an hour, ordinarily while a Pipe is ſmoaking, or the Cloath taking away. And I can moſt truly af<g ref="char:EOLhyphen"/>firm I know ſome great perſons, who, after this my manner, can expreſs any thing ſooner by their Fingers, than the moſt skilful Artiſt can by his Pen and Ink, provided he write in words at length.</p>
+            <p>I forbear to relate any plea<g ref="char:EOLhyphen"/>ſant accidents happening by the uſe of theſe Alphabets, becauſe I make uſe of them <hi>Tam Neceſſi<g ref="char:EOLhyphen"/>tate Quam Diverſione.</hi>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:48316:9"/>Since there is no word but is made up of one or more Vow<g ref="char:EOLhyphen"/>els, the Vowels conſequently come about oftner than any five Conſonants, wherefore let the Thumb and Four fingers of the left hand, touched by the top of the Fore-finger of the right hand, repreſent the five Vowels, aciou. <hi>viz.</hi> the top of the Thumb a. the Fore-finger e. the Middle-finger i. the Ring-finger o. and the little Finger u. as by the Figure.</p>
+            <figure>
+               <figDesc>depiction of hand</figDesc>
+            </figure>
+            <list>
+               <head>The Conſonants are thus decipher'd.</head>
+               <item>The fore-finger and thumb of the left-hand put together, B</item>
+               <item>The four fingers bent in towards the palm of the hand, C</item>
+               <item>The thumb and fore<g ref="char:EOLhyphen"/>finger of the left-hand joyned by the fore-fin<g ref="char:EOLhyphen"/>ger of the right-hand, D</item>
+               <item>
+                  <pb n="16" facs="tcp:48316:10"/>The fore-finger of the right hand laid on the back of the 4 fingers of the left hand, F</item>
+               <item>The two Fiſts joyned, G</item>
+               <item>Draw the fore-finger of the right hand quite along the middle of the left hand, H</item>
+               <item>Touch the Nail of the middle finger of the left hand, I conſon.</item>
+               <item>Draw the fore-finger of the right hand quite along the back of the left hand, K</item>
+               <item>Lay the fore-finger of the right hand on the knuckles of the left, L</item>
+               <item>
+                  <pb n="17" facs="tcp:48316:10"/>Put 3 fingers in the palm of the hand, M</item>
+               <item>Put 2 fingers in the ſame manner, N</item>
+               <item>Put the fore-finger of the right hand between the fore and middle finger of the left, P</item>
+               <item>Turn the top of the fore finger of the left hand to the bottom of the thumb of the ſame hand, Q</item>
+               <item>Lay the fore finger of the right hand ſemi<g ref="char:EOLhyphen"/>circularly in the palm of the left, R</item>
+               <item>Encircle the thumb of the left hand with the fore-finger of the right, S</item>
+               <item>
+                  <pb n="18" facs="tcp:48316:11"/>Touch the ſide of the left hand with the fore finger of the right, T</item>
+               <item>Touch the nail of the little finger of the left hand, U conſon.</item>
+               <item>Put two fingers on the little finger of the left hand, W</item>
+               <item>Lay the 2 foer-fin<g ref="char:EOLhyphen"/>gers acroſs, X</item>
+               <item>Touch the bottom of the hand long ways with the fore finger of the right hand, Y</item>
+               <item>Make the figure of the letter in the palm of the hand, Z</item>
+               <pb facs="tcp:48316:11"/>
+            </list>
+            <figure>
+               <p>
+                  <hi>Note for</hi> (H) <hi>and</hi> (K) <hi>let the Finger be brought from the Part where it is set to the end of the direct Line within and without the hand. Place this in Page. 19.</hi>
+               </p>
+               <figDesc>diagram of sign language</figDesc>
+            </figure>
+            <p>
+               <pb n="19" facs="tcp:48316:12"/>Notwithſtanding I have ſo largely and plainly deſcribed the form of every ſignificative Figure, I have, that the whole Alphabet might be viewed at once, cauſed theſe Figures to be here ſet in their Alphabetical Order, as may be perceived.</p>
+            <p>Now nothing can be eaſier, (when any perſon views the whole twenty ſix Figures) than to make ſuch and ſuch ſigns by his fingers at firſt ſight, as (ac<g ref="char:EOLhyphen"/>cording to theſe rules) repreſent ſuch and ſuch letters as make up the word he would expreſs, This, I ſay, muſt be as facile, as for a skilful Muſician to play off a Tune at ſight, or as if, out of the twenty ſix letters, there lit<g ref="char:EOLhyphen"/>terally ſet over their reſpective
+<pb n="20" facs="tcp:48316:13"/>repreſentative Figures, I were with a Pen and Ink to take AND for and, ſo likewiſe of any other word.</p>
+            <p>But this I think good to ad<g ref="char:EOLhyphen"/>viſe, that whoſoever deſires to be a proficient in this ſilent Lan<g ref="char:EOLhyphen"/>guage, ought to be able to ex<g ref="char:EOLhyphen"/>preſs the whole Alphabet in their Alphabetical Order, (laying aſide theſe inſtructions) as abſolutely perfect before they pretend to diſcourſe, as a Boy ought well to make his letters, before he eſ<g ref="char:EOLhyphen"/>ſays to write words.</p>
+            <p>But now it may be objected, if three men buy three of theſe Books, and make uſe of the ſame Alphabet, they muſt un<g ref="char:EOLhyphen"/>doubtedly alike apprehend, which
+<pb n="21" facs="tcp:48316:13"/>I grant to be true; but to make my words good, I here preſent the world with another Alpha<g ref="char:EOLhyphen"/>bet, and ſhall anon ſhew the pleaſure and commodity of them both together.</p>
+            <p>Let the top of the four fingers and the Thumb ſignifie the five Vowels, a e i o u beginning at the little finger for a. and ſo back<g ref="char:EOLhyphen"/>wards, as by the following figure.</p>
+            <figure>
+               <figDesc>depiction of hand</figDesc>
+            </figure>
+            <list>
+               <head>The Conſonants I thus diſpoſe.</head>
+               <item>The ſame that <hi>(d)</hi> is in the other Alphabet, B</item>
+               <item>The ſame that <hi>(r)</hi> is in the other Alphabet, C</item>
+               <item>Joyn the 2 thumbs and 2 fore-fingers, D</item>
+               <item>Croſs the Wriſt with the fore-finger, F</item>
+               <item>Put the two Fiſts one upon another G</item>
+               <item>
+                  <pb n="23" facs="tcp:48316:14"/>Draw the fore-finger round the hill of the thumb, H</item>
+               <item>The ſame that <hi>(f)</hi> is in the other Alphabet, K</item>
+               <item>The fore-finger of the right hand laid within the fingers of the left, I.</item>
+               <item>The ſame as in the other Alphabet, MN</item>
+               <item>The fore-finger of the right hand put be<g ref="char:EOLhyphen"/>tween the fore-finger &amp; thumb of the left, P</item>
+               <item>Encompaſs the fore<g ref="char:EOLhyphen"/>finger of the right hand with the fore-fin<g ref="char:EOLhyphen"/>ger and thumb of the left, Q</item>
+               <item>The ſame that <hi>(h)</hi> is in the other Alphabet, R</item>
+               <item>
+                  <pb n="24" facs="tcp:48316:15"/>Joyn the 2 little fin<g ref="char:EOLhyphen"/>gers croſs ways, S</item>
+               <item>Lay the fore-finger of the right hand di<g ref="char:EOLhyphen"/>rectly acroſs the palm of the left hand, T</item>
+               <item>Touch the thumb najl, U conſon.</item>
+               <item>Put all the fingers o<g ref="char:EOLhyphen"/>verone another almoſt croſs, W</item>
+               <item>Connex the knuckles X</item>
+               <item>Put the fore-ſinger &amp; thumb of the right hand to the ſide of the left hand, Y</item>
+               <item>As in the other Al<g ref="char:EOLhyphen"/>phabet, Z</item>
+            </list>
+            <figure>
+               <p>
+                  <hi>Noce for</hi> (h) <hi>and</hi> (r) <hi>let the finger be brought from one end of the Line where it is set to the other end thereofi Place this in Page: 25.</hi>
+               </p>
+               <figDesc>diagram of sign language</figDesc>
+            </figure>
+            <p>
+               <pb n="25" facs="tcp:48316:16"/>If the inſtructions given to the former Alphabet are rightly underſtood, there needs none to this, becauſe reaſon dictates the ſame uſe. Now I would ſay by this Alphabet, <hi>Good Morrow Sir,</hi> which is thus done.</p>
+            <p>The two Fiſts upon each other. G</p>
+            <p>Two fingers put up<g ref="char:EOLhyphen"/>on the fore finger of the left hand, oo</p>
+            <p>Two thumbs and 2 fore-fingers joyned, Which being put together make Good. d</p>
+            <p>When the word is ended point directly into the middle of the hand, which notation muſt be given at the end of every word again.</p>
+            <p>
+               <pb n="26" facs="tcp:48316:17"/>Three fingers in the middle of the hand, m</p>
+            <p>Top of the fore-finger o</p>
+            <p>2 fingers drawn along the middle of thehand rr</p>
+            <p>Top of the fore-fin<g ref="char:EOLhyphen"/>ger as before, o</p>
+            <p>Fingers croſs ways over one another. w</p>
+            <p>Then again the Notation</p>
+            <p>Two little fingers croſs ways, S</p>
+            <p>Top of the middle finger, i</p>
+            <p>Along the inſide of the left hand, r</p>
+            <p>Then the Notation.</p>
+            <p>Which being bore in memory make <hi>Good morrow Sir.</hi>
+            </p>
+            <p>But if it ſhould ſo happen that two perſons are converſing to<g ref="char:EOLhyphen"/>together by the uſe of either of
+<pb n="27" facs="tcp:48316:17"/>theſe Alphabets, and ſuſpect a third perſon to apprehend, 'tis but exchanging five or more Letters in an Alphabet, and they can never make Head or Tayl of it, of which intentions any Man may acquaint his Friend by a whiſper or otherwiſe. As for Example, you would ſay by this Alphabet <hi>Sir your Servant,</hi> which in words at length will be thus.</p>
+            <p>2 little fingers croſs ways, S</p>
+            <p>Top of the middle finger i</p>
+            <p>Along the inſide of the hand, r</p>
+            <p>The point in the middle of the hand the notation.</p>
+            <p>Then again, Fore-finger and thumb to the ſide of the hand y</p>
+            <p>Top of the fore finger o</p>
+            <p>Top of the thumb, u</p>
+            <p>Along the middle of the hand, r</p>
+            <p>Then the Notation.</p>
+            <p>
+               <pb n="28" facs="tcp:48316:18"/>Again, 2 fingers croſs ways, S</p>
+            <p>Top of the ring finger, c</p>
+            <p>Along the middle of the hand, r</p>
+            <p>Thumb Nail, v</p>
+            <p>Top of the little finger, a</p>
+            <p>2 fingers in the palm, n</p>
+            <p>Draw the fore-ſinger di<g ref="char:EOLhyphen"/>rectly down the middle of the hand, t</p>
+            <p>Then the Notation:</p>
+            <p>But now I will ſuppoſe that you have agreed to take the Vowels as in the other Alphabet, and exchange <hi>r</hi> in this Alphabet, for <hi>r</hi> in the other Alphabet, which is <hi>c</hi> in this, and for <hi>c</hi> in this Alphabet you will take <hi>k</hi> in the other alphabet. You muſt thus begin then.</p>
+            <p>Two little fingers croſs ways S</p>
+            <p>Top of the middle finger i</p>
+            <p>Fore finger ſemicircularly in the palm of the hand, r</p>
+            <p>
+               <pb n="29" facs="tcp:48316:18"/>Now any indifferent perſon that un<g ref="char:EOLhyphen"/>derſtood both Alphabets would think that you were about to ſay ſick, or ſome other word with more letters after the(r) which is (c) in this Alphabet, or elſe when he ſees the period at the end of (c) in this Alphabet, tho to your ſelf and friend it ſignifies(r) He concludes you ſpeak Latin, or make ſome miſtake in the letters when the truth is, he himſelf is in error.</p>
+            <p>But thus exchanging 5 or 6 letters in an Alphabet, in many words they will be found ſo often to reiterate, that a ſtand<g ref="char:EOLhyphen"/>er-by (tho acquainted with the method) ſhall apprehend, but in a meer miſt, let him be never ſo expert at it.</p>
+            <p>However, having here deſcribed 2 Al<g ref="char:EOLhyphen"/>phabets, every perſon is left to his liberty to make up one for himſelf and friend out of the 2, that will be as private from all the world, as if they never heard of ſuch an invention, but I think the deſign here laid down is now made ſo plain, it needs not further Demonſtration.</p>
+            <p>For an affirmative, point to one Eye.</p>
+            <p>For a negative, point to the Noſe.</p>
+            <p>But if you neither affirm nor deny, put one finger upon the Eye, and another
+<pb n="30" facs="tcp:48316:19"/>upon the Noſe, which may very well ſignify I don't know, or indifferent.</p>
+            <p>And, whereas moſt of the letters are deliniated by the Fore-finger of the right hand, if it happens that you are to expreſs two Letters of the ſame ſort juſt together, it may be done either by two fingers at once as double (o) double (e) double(f) or any other letter except thoſe that are deciphered by more than the fore<g ref="char:EOLhyphen"/>finger of the right hand, or elſe at twice, as beſt ſuits perticular Fancies.</p>
+            <p>Abbreviating the words by theſe Signs is the ſame as with a Pen and Ink, be<g ref="char:EOLhyphen"/>cauſe to intimate <hi>(which)</hi> needs no more than the repreſentative Figures of W. C. H. <hi>That.</hi> Y. T. and ſo of any other word, as the perſon himſelf pleaſes. The throwing out the hand from the body in way of diſcourſe, ſignifies and.</p>
+            <p>I heartily wiſh all Perſons may as ſoon diſcern the commodity as the uſe of theſe Fruits of a few vacant hours.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48316:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
